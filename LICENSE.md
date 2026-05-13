@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with elite JetBrains Rider for PC | JetBrains Rider for Windows Script | multi-language-support + cloud-integration,
 
 
 
